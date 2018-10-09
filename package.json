@@ -2,7 +2,7 @@
   "name": "es6-babel-webpack-eslint-nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "build": "webpack --mode development",
     "dev": "webpack-dev-server --content-base dist --hot",
