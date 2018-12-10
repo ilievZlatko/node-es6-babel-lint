@@ -12,3 +12,9 @@ npm install && npm run dev
 ```
 npm run build
 ```
+
+## Lin it:
+
+```
+npm run lint
+```
